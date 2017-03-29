@@ -1,0 +1,12 @@
+{
+    "modules" : [
+        {
+            "name" : "Dungeons and Dragons, 5th Edition",
+            "description" : "Classic Monster Manual list from 5th Edition",
+            "host" : "raw.githubusercontent.com",
+            "path" : "/Serghar/dd_5e_module/master/monster_module.json",
+            "fullUrl" : "https://raw.githubusercontent.com/Serghar/dd_5e_module/master/monster_module.json",
+            "imgUrl" : ""
+        }
+    ]
+}
